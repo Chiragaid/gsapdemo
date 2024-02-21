@@ -6,15 +6,15 @@ Assigned to:	www.ClaPat.com
 Primary use:	Showcase Portfolio 
 -------------------------------------------------------------------*/
 
-@import url("http://manifesto.clapat.com/css/content.css");
-@import url("http://manifesto.clapat.com/css/showcase.css");
-@import url("http://manifesto.clapat.com/css/shortcodes.css");
-@import url("http://manifesto.clapat.com/css/assets.css");
+@import url("css/content.css");
+@import url("css/showcase.css");
+@import url("css/shortcodes.css");
+@import url("css/assets.css");
 
 @font-face {
     font-family: 'mona-sansextrabold_wide';
-    src: url('http://manifesto.clapat.com/webfonts/mona-sans-extraboldwide-webfont.woff2') format('woff2'),
-         url('http://manifesto.clapat.com/webfonts/mona-sans-extraboldwide-webfont.woff') format('woff');
+    src: url('webfonts/mona-sans-extraboldwide-webfont.woff2') format('woff2'),
+         url('webfonts/mona-sans-extraboldwide-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
